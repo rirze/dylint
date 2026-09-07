@@ -172,6 +172,7 @@ dependencies = [
  "dylint_internal",
  "env_logger",
  "glob",
+ "ignore",
  "log",
  "predicates",
  "regex",
@@ -181,7 +182,6 @@ dependencies = [
  "snapbox",
  "tempfile",
  "toml_edit",
- "walkdir",
 ]
 
 [[package]]

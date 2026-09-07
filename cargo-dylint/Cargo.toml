@@ -26,6 +26,7 @@ assert_cmd = { workspace = true }
 cargo_metadata = { workspace = true }
 ctor = { workspace = true }
 glob = { workspace = true }
+ignore = { workspace = true }
 log = { workspace = true }
 predicates = { workspace = true }
 regex = { workspace = true }
@@ -35,7 +36,6 @@ similar-asserts = { workspace = true }
 snapbox = { workspace = true }
 tempfile = { workspace = true }
 toml_edit = { workspace = true }
-walkdir = { workspace = true }
 
 dylint_internal = { version = "=6.0.4", path = "../internal", features = [
     "examples",
