@@ -672,7 +672,7 @@
       {
         "id": 55083,
         "kind": "user",
-        "login": "nmccarty",
+        "login": "ghost_55083",
         "name": "Nathan McCarty"
       }
     ],
@@ -686,7 +686,7 @@
       {
         "id": 55083,
         "kind": "user",
-        "login": "nmccarty",
+        "login": "ghost_55083",
         "name": "Nathan McCarty"
       }
     ],
@@ -2512,6 +2512,20 @@
         "kind": "team",
         "login": "github:unicode-org:icu4x-release",
         "name": "icu4x-release"
+      }
+    ],
+    "zlib-rs": [
+      {
+        "id": 1303,
+        "kind": "user",
+        "login": "rnijveld",
+        "name": "Ruben Nijveld"
+      },
+      {
+        "id": 256011,
+        "kind": "user",
+        "login": "folkertdev",
+        "name": "Folkert de Vries"
       }
     ],
     "zmij": [
